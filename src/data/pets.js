@@ -50,7 +50,7 @@ const allPets = [
     gender: 'female',
     age: 10,
     weight: 5,
-    name: 'Wisdom',
+    name: 'Penny',
     isAdopted: false,
   },
   {
